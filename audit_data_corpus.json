@@ -1,0 +1,321 @@
+{
+  "audit_date": "2026-08-20",
+  "duration_seconds": 663.045,
+  "physical_pdf_count": 282076,
+  "physical_bytes": 570540055,
+  "unique_sha256_count": 282076,
+  "duplicate_physical_files": 0,
+  "duplicate_hash_groups": 0,
+  "empty_files": 0,
+  "unique_pdfs_inspected": 282076,
+  "corrupt_unique_pdfs": 0,
+  "unique_pdfs_without_text": null,
+  "total_pages_unique_pdfs": 289739,
+  "total_text_characters_unique_pdfs": null,
+  "faiss_index_count": 49,
+  "total_vectors": 257498,
+  "dimensions": [
+    384
+  ],
+  "index_bytes": 682243129,
+  "indexes": [
+    {
+      "name": "faiss_index_code_action_sociale",
+      "vectors": 7092,
+      "dimension": 384,
+      "bytes": 19486010
+    },
+    {
+      "name": "faiss_index_code_assurances",
+      "vectors": 4408,
+      "dimension": 384,
+      "bytes": 11896461
+    },
+    {
+      "name": "faiss_index_code_ceseda",
+      "vectors": 3995,
+      "dimension": 384,
+      "bytes": 10967141
+    },
+    {
+      "name": "faiss_index_code_cg3p",
+      "vectors": 1582,
+      "dimension": 384,
+      "bytes": 4373951
+    },
+    {
+      "name": "faiss_index_code_cinema",
+      "vectors": 3316,
+      "dimension": 384,
+      "bytes": 9116044
+    },
+    {
+      "name": "faiss_index_code_civil",
+      "vectors": 3174,
+      "dimension": 384,
+      "bytes": 7992669
+    },
+    {
+      "name": "faiss_index_code_coll_terr",
+      "vectors": 3,
+      "dimension": 384,
+      "bytes": 7778
+    },
+    {
+      "name": "faiss_index_code_commande_pub",
+      "vectors": 2345,
+      "dimension": 384,
+      "bytes": 6311672
+    },
+    {
+      "name": "faiss_index_code_commerce",
+      "vectors": 11863,
+      "dimension": 384,
+      "bytes": 31875753
+    },
+    {
+      "name": "faiss_index_code_conso",
+      "vectors": 2997,
+      "dimension": 384,
+      "bytes": 8023079
+    },
+    {
+      "name": "faiss_index_code_construction",
+      "vectors": 8039,
+      "dimension": 384,
+      "bytes": 21844959
+    },
+    {
+      "name": "faiss_index_code_crpa",
+      "vectors": 655,
+      "dimension": 384,
+      "bytes": 1793787
+    },
+    {
+      "name": "faiss_index_code_defense",
+      "vectors": 4878,
+      "dimension": 384,
+      "bytes": 13120569
+    },
+    {
+      "name": "faiss_index_code_douanes",
+      "vectors": 734,
+      "dimension": 384,
+      "bytes": 1936959
+    },
+    {
+      "name": "faiss_index_code_education",
+      "vectors": 8264,
+      "dimension": 384,
+      "bytes": 22330107
+    },
+    {
+      "name": "faiss_index_code_electoral",
+      "vectors": 1884,
+      "dimension": 384,
+      "bytes": 4999903
+    },
+    {
+      "name": "faiss_index_code_energie",
+      "vectors": 5526,
+      "dimension": 384,
+      "bytes": 14915181
+    },
+    {
+      "name": "faiss_index_code_environnement",
+      "vectors": 12719,
+      "dimension": 384,
+      "bytes": 34473488
+    },
+    {
+      "name": "faiss_index_code_fonction_pub",
+      "vectors": 5194,
+      "dimension": 384,
+      "bytes": 14053421
+    },
+    {
+      "name": "faiss_index_code_forestier",
+      "vectors": 1847,
+      "dimension": 384,
+      "bytes": 4894888
+    },
+    {
+      "name": "faiss_index_code_impots",
+      "vectors": 7083,
+      "dimension": 384,
+      "bytes": 19392331
+    },
+    {
+      "name": "faiss_index_code_juridictions_fin",
+      "vectors": 2,
+      "dimension": 384,
+      "bytes": 5178
+    },
+    {
+      "name": "faiss_index_code_justice_admin",
+      "vectors": 1645,
+      "dimension": 384,
+      "bytes": 4391533
+    },
+    {
+      "name": "faiss_index_code_justice_mil_new",
+      "vectors": 2,
+      "dimension": 384,
+      "bytes": 5477
+    },
+    {
+      "name": "faiss_index_code_justice_militaire",
+      "vectors": 3,
+      "dimension": 384,
+      "bytes": 7564
+    },
+    {
+      "name": "faiss_index_code_monetaire",
+      "vectors": 10581,
+      "dimension": 384,
+      "bytes": 28820097
+    },
+    {
+      "name": "faiss_index_code_org_judiciaire",
+      "vectors": 1831,
+      "dimension": 384,
+      "bytes": 4949574
+    },
+    {
+      "name": "faiss_index_code_penal",
+      "vectors": 1751,
+      "dimension": 384,
+      "bytes": 4634903
+    },
+    {
+      "name": "faiss_index_code_pi",
+      "vectors": 2891,
+      "dimension": 384,
+      "bytes": 7892348
+    },
+    {
+      "name": "faiss_index_code_postes",
+      "vectors": 1620,
+      "dimension": 384,
+      "bytes": 4460111
+    },
+    {
+      "name": "faiss_index_code_proc_civile",
+      "vectors": 2348,
+      "dimension": 384,
+      "bytes": 6113831
+    },
+    {
+      "name": "faiss_index_code_proc_exec",
+      "vectors": 883,
+      "dimension": 384,
+      "bytes": 2372476
+    },
+    {
+      "name": "faiss_index_code_proc_penale",
+      "vectors": 7175,
+      "dimension": 384,
+      "bytes": 19343351
+    },
+    {
+      "name": "faiss_index_code_recherche",
+      "vectors": 1579,
+      "dimension": 384,
+      "bytes": 4265203
+    },
+    {
+      "name": "faiss_index_code_route",
+      "vectors": 1994,
+      "dimension": 384,
+      "bytes": 5353282
+    },
+    {
+      "name": "faiss_index_code_rural",
+      "vectors": 15541,
+      "dimension": 384,
+      "bytes": 41653463
+    },
+    {
+      "name": "faiss_index_code_sante",
+      "vectors": 22722,
+      "dimension": 384,
+      "bytes": 61846750
+    },
+    {
+      "name": "faiss_index_code_secu",
+      "vectors": 13878,
+      "dimension": 384,
+      "bytes": 37870025
+    },
+    {
+      "name": "faiss_index_code_secu_int",
+      "vectors": 4849,
+      "dimension": 384,
+      "bytes": 13209301
+    },
+    {
+      "name": "faiss_index_code_sport",
+      "vectors": 3373,
+      "dimension": 384,
+      "bytes": 9082999
+    },
+    {
+      "name": "faiss_index_code_tourisme",
+      "vectors": 920,
+      "dimension": 384,
+      "bytes": 2439291
+    },
+    {
+      "name": "faiss_index_code_transports",
+      "vectors": 13368,
+      "dimension": 384,
+      "bytes": 35802895
+    },
+    {
+      "name": "faiss_index_code_travail",
+      "vectors": 15763,
+      "dimension": 384,
+      "bytes": 42342198
+    },
+    {
+      "name": "faiss_index_code_urbanisme",
+      "vectors": 3632,
+      "dimension": 384,
+      "bytes": 9767474
+    },
+    {
+      "name": "faiss_index_jurisprudence_caa",
+      "vectors": 252,
+      "dimension": 384,
+      "bytes": 541269
+    },
+    {
+      "name": "faiss_index_jurisprudence_ce",
+      "vectors": 7811,
+      "dimension": 384,
+      "bytes": 16738903
+    },
+    {
+      "name": "faiss_index_jurisprudence_ta",
+      "vectors": 4,
+      "dimension": 384,
+      "bytes": 8982
+    },
+    {
+      "name": "faiss_index_lois_ordonnances",
+      "vectors": 22038,
+      "dimension": 384,
+      "bytes": 50588633
+    },
+    {
+      "name": "faiss_index_lpf",
+      "vectors": 1444,
+      "dimension": 384,
+      "bytes": 3929867
+    }
+  ],
+  "limits": [
+    "Les chunks correspondent aux vecteurs enregistrés, mais un même document peut produire plusieurs chunks.",
+    "Le contrôle exhaustif du texte a dépassé vingt minutes : documents sans texte et total de caractères restent MESURE À EXÉCUTER."
+  ]
+}

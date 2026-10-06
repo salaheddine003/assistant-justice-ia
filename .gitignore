@@ -1,0 +1,22 @@
+.env
+.env.*
+!.env.example
+feedback.jsonl
+__pycache__/
+*.pyc
+.venv/
+
+# Index vectoriels et sources juridiques (trop volumineux pour git)
+faiss_index_*/
+pdfs/
+pdfs2/
+
+# Logs et caches
+*.log
+.pytest_cache/
+.coverage
+tests_output/
+
+# OS / editeurs
+.DS_Store
+Thumbs.db

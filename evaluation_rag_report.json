@@ -1,0 +1,1958 @@
+{
+  "summary": {
+    "total": 50,
+    "pass": 40,
+    "review": 10,
+    "error": 0
+  },
+  "results": [
+    {
+      "id": "civil_divorce",
+      "type": "simple",
+      "question": "Quelles sont les causes du divorce ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "pass",
+      "best_score": 76.7,
+      "best_lexical_score": 62.5,
+      "source_count": 5,
+      "expected_hits": [
+        "divorce",
+        "consentement",
+        "faute"
+      ],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "262-1",
+          "source_file": "262-1__Code_civil.pdf",
+          "score": "76.7%",
+          "hybrid_score": 73.6
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "265",
+          "source_file": "265__Code_civil.pdf",
+          "score": "75.7%",
+          "hybrid_score": 72.8
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "260",
+          "source_file": "260__Code_civil.pdf",
+          "score": "75.0%",
+          "hybrid_score": 72.2
+        }
+      ]
+    },
+    {
+      "id": "civil_mariage",
+      "type": "simple",
+      "question": "Quelles sont les conditions legales du mariage ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "pass",
+      "best_score": 81.8,
+      "best_lexical_score": 72.2,
+      "source_count": 5,
+      "expected_hits": [
+        "mariage",
+        "consentement"
+      ],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "146",
+          "source_file": "146__Code_civil.pdf",
+          "score": "81.8%",
+          "hybrid_score": 79.7
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "144",
+          "source_file": "144__Code_civil.pdf",
+          "score": "80.8%",
+          "hybrid_score": 78.9
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "143",
+          "source_file": "143__Code_civil.pdf",
+          "score": "80.8%",
+          "hybrid_score": 78.9
+        }
+      ]
+    },
+    {
+      "id": "civil_succession",
+      "type": "simple",
+      "question": "Comment se regle une succession entre heritiers ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "pass",
+      "best_score": 61.3,
+      "best_lexical_score": 62.5,
+      "source_count": 5,
+      "expected_hits": [
+        "succession",
+        "heritier"
+      ],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "810-5",
+          "source_file": "810-5__Code_civil.pdf",
+          "score": "60.8%",
+          "hybrid_score": 61.2
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "810-4",
+          "source_file": "810-4__Code_civil.pdf",
+          "score": "60.8%",
+          "hybrid_score": 60.2
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "810",
+          "source_file": "810__Code_civil.pdf",
+          "score": "59.7%",
+          "hybrid_score": 59.4
+        }
+      ]
+    },
+    {
+      "id": "civil_responsabilite",
+      "type": "simple",
+      "question": "Quand la responsabilite civile peut-elle etre engagee ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "pass",
+      "best_score": 70.2,
+      "best_lexical_score": 54.2,
+      "source_count": 5,
+      "expected_hits": [
+        "responsabilite",
+        "faute"
+      ],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "1847",
+          "source_file": "1847__Code_civil.pdf",
+          "score": "68.5%",
+          "hybrid_score": 65.4
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "1854-1",
+          "source_file": "1854-1__Code_civil.pdf",
+          "score": "69.8%",
+          "hybrid_score": 60.4
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "413",
+          "source_file": "413__Code_civil.pdf",
+          "score": "69.8%",
+          "hybrid_score": 60.4
+        }
+      ]
+    },
+    {
+      "id": "civil_bail",
+      "type": "simple",
+      "question": "Quels sont les droits du locataire en cas de loyer impaye ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "review",
+      "best_score": 69.9,
+      "best_lexical_score": 10.9,
+      "source_count": 5,
+      "expected_hits": [
+        "bail"
+      ],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "2472",
+          "source_file": "2472__Code_civil.pdf",
+          "score": "69.9%",
+          "hybrid_score": 56.9
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "2382",
+          "source_file": "2382__Code_civil.pdf",
+          "score": "69.7%",
+          "hybrid_score": 56.8
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "2373-1",
+          "source_file": "2373-1__Code_civil.pdf",
+          "score": "69.0%",
+          "hybrid_score": 56.2
+        }
+      ]
+    },
+    {
+      "id": "travail_licenciement",
+      "type": "simple",
+      "question": "Quel est le delai de preavis en cas de licenciement ?",
+      "codes": [
+        "Code du travail"
+      ],
+      "status": "pass",
+      "best_score": 85.0,
+      "best_lexical_score": 72.7,
+      "source_count": 5,
+      "expected_hits": [
+        "licenciement",
+        "preavis",
+        "salarie"
+      ],
+      "top_sources": [
+        {
+          "code": "Code du travail",
+          "article_ref": "L1233-39",
+          "source_file": "L1233-39__Code_du_travail.pdf",
+          "score": "78.4%",
+          "hybrid_score": 77.1
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "L1226-4",
+          "source_file": "L1226-4__Code_du_travail.pdf",
+          "score": "85.0%",
+          "hybrid_score": 78.6
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "L1234-11",
+          "source_file": "L1234-11__Code_du_travail.pdf",
+          "score": "77.1%",
+          "hybrid_score": 74.9
+        }
+      ]
+    },
+    {
+      "id": "travail_cdd",
+      "type": "simple",
+      "question": "Dans quelles conditions un contrat a duree determinee peut-il etre conclu ?",
+      "codes": [
+        "Code du travail"
+      ],
+      "status": "pass",
+      "best_score": 76.0,
+      "best_lexical_score": 75.0,
+      "source_count": 5,
+      "expected_hits": [
+        "contrat",
+        "duree",
+        "determinee"
+      ],
+      "top_sources": [
+        {
+          "code": "Code du travail",
+          "article_ref": "L1251-37-1",
+          "source_file": "L1251-37-1__Code_du_travail.pdf",
+          "score": "73.2%",
+          "hybrid_score": 73.6
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "L5213-13-2",
+          "source_file": "L5213-13-2__Code_du_travail.pdf",
+          "score": "74.0%",
+          "hybrid_score": 73.6
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "L1242-12-1",
+          "source_file": "L1242-12-1__Code_du_travail.pdf",
+          "score": "76.0%",
+          "hybrid_score": 73.3
+        }
+      ]
+    },
+    {
+      "id": "travail_conges",
+      "type": "simple",
+      "question": "Comment sont calcules les conges payes du salarie ?",
+      "codes": [
+        "Code du travail"
+      ],
+      "status": "pass",
+      "best_score": 79.7,
+      "best_lexical_score": 77.1,
+      "source_count": 5,
+      "expected_hits": [
+        "conges",
+        "payes",
+        "salarie"
+      ],
+      "top_sources": [
+        {
+          "code": "Code du travail",
+          "article_ref": "R5122-11",
+          "source_file": "R5122-11__Code_du_travail.pdf",
+          "score": "73.5%",
+          "hybrid_score": 74.3
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "D3141-31",
+          "source_file": "D3141-31__Code_du_travail.pdf",
+          "score": "73.8%",
+          "hybrid_score": 72.7
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "R6323-18-3-1",
+          "source_file": "R6323-18-3-1__Code_du_travail.pdf",
+          "score": "72.8%",
+          "hybrid_score": 71.9
+        }
+      ]
+    },
+    {
+      "id": "travail_duree",
+      "type": "simple",
+      "question": "Quelle est la duree legale du travail ?",
+      "codes": [
+        "Code du travail"
+      ],
+      "status": "pass",
+      "best_score": 81.9,
+      "best_lexical_score": 72.2,
+      "source_count": 5,
+      "expected_hits": [
+        "duree",
+        "travail"
+      ],
+      "top_sources": [
+        {
+          "code": "Code du travail",
+          "article_ref": "R1238-2",
+          "source_file": "R1238-2__Code_du_travail.pdf",
+          "score": "80.7%",
+          "hybrid_score": 78.8
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "D1247-1",
+          "source_file": "D1247-1__Code_du_travail.pdf",
+          "score": "80.6%",
+          "hybrid_score": 78.8
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "L1247-1",
+          "source_file": "L1247-1__Code_du_travail.pdf",
+          "score": "80.0%",
+          "hybrid_score": 78.3
+        }
+      ]
+    },
+    {
+      "id": "travail_accident",
+      "type": "simple",
+      "question": "Quels droits apres un accident du travail ?",
+      "codes": [
+        "Code du travail",
+        "Code de la sécurité sociale"
+      ],
+      "status": "pass",
+      "best_score": 74.2,
+      "best_lexical_score": 95.8,
+      "source_count": 10,
+      "expected_hits": [
+        "accident",
+        "travail"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la sécurité sociale",
+          "article_ref": "R413-10",
+          "source_file": "R413-10__Code_de_la_securite_sociale.pdf",
+          "score": "72.5%",
+          "hybrid_score": 77.6
+        },
+        {
+          "code": "Code de la sécurité sociale",
+          "article_ref": "R441-13",
+          "source_file": "R441-13__Code_de_la_securite_sociale.pdf",
+          "score": "71.8%",
+          "hybrid_score": 73.9
+        },
+        {
+          "code": "Code de la sécurité sociale",
+          "article_ref": "L411-2",
+          "source_file": "L411-2__Code_de_la_securite_sociale.pdf",
+          "score": "71.5%",
+          "hybrid_score": 73.6
+        }
+      ]
+    },
+    {
+      "id": "penal_vol",
+      "type": "simple",
+      "question": "Comment le vol est-il defini et sanctionne ?",
+      "codes": [
+        "Code pénal"
+      ],
+      "status": "pass",
+      "best_score": 76.4,
+      "best_lexical_score": 30.6,
+      "source_count": 5,
+      "expected_hits": [
+        "vol",
+        "peine"
+      ],
+      "top_sources": [
+        {
+          "code": "Code pénal",
+          "article_ref": "131-21",
+          "source_file": "131-21__Code_penal.pdf",
+          "score": "76.4%",
+          "hybrid_score": 66.3
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "R645-9",
+          "source_file": "R645-9__Code_penal.pdf",
+          "score": "75.6%",
+          "hybrid_score": 65.7
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "R645-11",
+          "source_file": "R645-11__Code_penal.pdf",
+          "score": "75.1%",
+          "hybrid_score": 65.3
+        }
+      ]
+    },
+    {
+      "id": "penal_escroquerie",
+      "type": "simple",
+      "question": "Quels sont les elements constitutifs de l'escroquerie ?",
+      "codes": [
+        "Code pénal"
+      ],
+      "status": "review",
+      "best_score": 61.4,
+      "best_lexical_score": 30.6,
+      "source_count": 5,
+      "expected_hits": [
+        "remise"
+      ],
+      "top_sources": [
+        {
+          "code": "Code pénal",
+          "article_ref": "322-11-1",
+          "source_file": "322-11-1__Code_penal.pdf",
+          "score": "55.7%",
+          "hybrid_score": 50.2
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "322-3",
+          "source_file": "322-3__Code_penal.pdf",
+          "score": "61.4%",
+          "hybrid_score": 47.9
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "442-13",
+          "source_file": "442-13__Code_penal.pdf",
+          "score": "58.1%",
+          "hybrid_score": 45.3
+        }
+      ]
+    },
+    {
+      "id": "penal_violences",
+      "type": "simple",
+      "question": "Quelles peines sont prevues pour les violences volontaires ?",
+      "codes": [
+        "Code pénal"
+      ],
+      "status": "pass",
+      "best_score": 82.1,
+      "best_lexical_score": 81.2,
+      "source_count": 5,
+      "expected_hits": [
+        "violences",
+        "peine",
+        "incapacite"
+      ],
+      "top_sources": [
+        {
+          "code": "Code pénal",
+          "article_ref": "222-14-5",
+          "source_file": "222-14-5__Code_penal.pdf",
+          "score": "78.8%",
+          "hybrid_score": 79.3
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "222-14-5",
+          "source_file": "222-14-5__Code_penal.pdf",
+          "score": "82.1%",
+          "hybrid_score": 80.1
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "221-5-2",
+          "source_file": "221-5-2__Code_penal.pdf",
+          "score": "75.1%",
+          "hybrid_score": 75.5
+        }
+      ]
+    },
+    {
+      "id": "procedure_garde_vue",
+      "type": "difficile",
+      "question": "Quels sont les droits d'une personne gardee a vue ?",
+      "codes": [
+        "Code de procédure pénale"
+      ],
+      "status": "pass",
+      "best_score": 81.8,
+      "best_lexical_score": 77.1,
+      "source_count": 5,
+      "expected_hits": [
+        "garde",
+        "vue"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de procédure pénale",
+          "article_ref": "62-3",
+          "source_file": "62-3__Code_de_procedure_penale.pdf",
+          "score": "81.8%",
+          "hybrid_score": 80.8
+        },
+        {
+          "code": "Code de procédure pénale",
+          "article_ref": "695-21",
+          "source_file": "695-21__Code_de_procedure_penale.pdf",
+          "score": "69.1%",
+          "hybrid_score": 66.7
+        },
+        {
+          "code": "Code de procédure pénale",
+          "article_ref": "2-6",
+          "source_file": "2-6__Code_de_procedure_penale.pdf",
+          "score": "71.3%",
+          "hybrid_score": 67.5
+        }
+      ]
+    },
+    {
+      "id": "procedure_plainte",
+      "type": "simple",
+      "question": "Comment deposer une plainte penale ?",
+      "codes": [
+        "Code de procédure pénale"
+      ],
+      "status": "pass",
+      "best_score": 72.8,
+      "best_lexical_score": 41.7,
+      "source_count": 5,
+      "expected_hits": [
+        "plainte",
+        "procureur",
+        "police"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de procédure pénale",
+          "article_ref": "706-7",
+          "source_file": "706-7__Code_de_procedure_penale.pdf",
+          "score": "72.3%",
+          "hybrid_score": 65.6
+        },
+        {
+          "code": "Code de procédure pénale",
+          "article_ref": "674-1",
+          "source_file": "674-1__Code_de_procedure_penale.pdf",
+          "score": "71.9%",
+          "hybrid_score": 65.3
+        },
+        {
+          "code": "Code de procédure pénale",
+          "article_ref": "85",
+          "source_file": "85__Code_de_procedure_penale.pdf",
+          "score": "71.8%",
+          "hybrid_score": 65.2
+        }
+      ]
+    },
+    {
+      "id": "commerce_societe",
+      "type": "simple",
+      "question": "Quelles formalites sont necessaires pour constituer une societe commerciale ?",
+      "codes": [
+        "Code de commerce"
+      ],
+      "status": "review",
+      "best_score": 69.3,
+      "best_lexical_score": 58.3,
+      "source_count": 5,
+      "expected_hits": [
+        "societe"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de commerce",
+          "article_ref": "A123-5",
+          "source_file": "A123-5__Code_de_commerce.pdf",
+          "score": "66.6%",
+          "hybrid_score": 64.8
+        },
+        {
+          "code": "Code de commerce",
+          "article_ref": "L124-1",
+          "source_file": "L124-1__Code_de_commerce.pdf",
+          "score": "69.3%",
+          "hybrid_score": 62.1
+        },
+        {
+          "code": "Code de commerce",
+          "article_ref": "L124-1",
+          "source_file": "L124-1__Code_de_commerce.pdf",
+          "score": "66.7%",
+          "hybrid_score": 60.8
+        }
+      ]
+    },
+    {
+      "id": "commerce_redressement",
+      "type": "difficile",
+      "question": "Quand une entreprise peut-elle etre placee en redressement judiciaire ?",
+      "codes": [
+        "Code de commerce"
+      ],
+      "status": "review",
+      "best_score": 79.0,
+      "best_lexical_score": 68.3,
+      "source_count": 5,
+      "expected_hits": [
+        "redressement"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de commerce",
+          "article_ref": "L611-7",
+          "source_file": "L611-7__Code_de_commerce.pdf",
+          "score": "79.0%",
+          "hybrid_score": 74.4
+        },
+        {
+          "code": "Code de commerce",
+          "article_ref": "19",
+          "source_file": "Annexe_8-2__Code_de_commerce.pdf",
+          "score": "73.2%",
+          "hybrid_score": 72.1
+        },
+        {
+          "code": "Code de commerce",
+          "article_ref": null,
+          "source_file": "Annexe_8-2__Code_de_commerce.pdf",
+          "score": "77.2%",
+          "hybrid_score": 71.2
+        }
+      ]
+    },
+    {
+      "id": "consommation_retractation",
+      "type": "simple",
+      "question": "Quel est le delai de retractation pour un achat a distance ?",
+      "codes": [
+        "Code de la consommation"
+      ],
+      "status": "pass",
+      "best_score": 68.5,
+      "best_lexical_score": 77.1,
+      "source_count": 5,
+      "expected_hits": [
+        "retractation",
+        "delai",
+        "distance"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la consommation",
+          "article_ref": "R313-4",
+          "source_file": "Annexe_à_l_article_R313-4__Code_de_la_consommation.pdf",
+          "score": "68.5%",
+          "hybrid_score": 70.4
+        },
+        {
+          "code": "Code de la consommation",
+          "article_ref": "L221-5",
+          "source_file": "L221-5__Code_de_la_consommation.pdf",
+          "score": "63.2%",
+          "hybrid_score": 66.3
+        },
+        {
+          "code": "Code de la consommation",
+          "article_ref": "L221-13",
+          "source_file": "L221-13__Code_de_la_consommation.pdf",
+          "score": "62.6%",
+          "hybrid_score": 64.9
+        }
+      ]
+    },
+    {
+      "id": "consommation_garantie",
+      "type": "simple",
+      "question": "Comment fonctionne la garantie legale de conformite ?",
+      "codes": [
+        "Code de la consommation"
+      ],
+      "status": "pass",
+      "best_score": 73.5,
+      "best_lexical_score": 100.0,
+      "source_count": 5,
+      "expected_hits": [
+        "garantie",
+        "conformite",
+        "consommateur"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la consommation",
+          "article_ref": "L211-2",
+          "source_file": "L211-2__Code_de_la_consommation.pdf",
+          "score": "72.2%",
+          "hybrid_score": 76.5
+        },
+        {
+          "code": "Code de la consommation",
+          "article_ref": "D211-2",
+          "source_file": "Annexe_à_l_article_D__211-2_du_code_de_la_consommation__Code_de_la_consommation.pdf",
+          "score": "66.4%",
+          "hybrid_score": 73.8
+        },
+        {
+          "code": "Code de la consommation",
+          "article_ref": "L217-9",
+          "source_file": "L217-9__Code_de_la_consommation.pdf",
+          "score": "65.8%",
+          "hybrid_score": 73.3
+        }
+      ]
+    },
+    {
+      "id": "sante_consentement",
+      "type": "simple",
+      "question": "Le consentement du patient est-il obligatoire avant un soin ?",
+      "codes": [
+        "Code de la santé publique"
+      ],
+      "status": "pass",
+      "best_score": 77.2,
+      "best_lexical_score": 59.7,
+      "source_count": 5,
+      "expected_hits": [
+        "consentement",
+        "patient",
+        "soin"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "R3222-6",
+          "source_file": "R3222-6__Code_de_la_sante_publique.pdf",
+          "score": "73.4%",
+          "hybrid_score": 70.4
+        },
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "L1111-4",
+          "source_file": "L1111-4__Code_de_la_sante_publique.pdf",
+          "score": "74.3%",
+          "hybrid_score": 69.3
+        },
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "L2212-7",
+          "source_file": "L2212-7__Code_de_la_sante_publique.pdf",
+          "score": "75.6%",
+          "hybrid_score": 69.7
+        }
+      ]
+    },
+    {
+      "id": "sante_secret",
+      "type": "simple",
+      "question": "Quelles sont les regles du secret medical ?",
+      "codes": [
+        "Code de la santé publique"
+      ],
+      "status": "pass",
+      "best_score": 77.7,
+      "best_lexical_score": 75.0,
+      "source_count": 5,
+      "expected_hits": [
+        "secret",
+        "medical",
+        "professionnel"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "L1521-1",
+          "source_file": "L1521-1__Code_de_la_sante_publique.pdf",
+          "score": "77.7%",
+          "hybrid_score": 76.5
+        },
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "R1111-46",
+          "source_file": "R1111-46__Code_de_la_sante_publique.pdf",
+          "score": "74.0%",
+          "hybrid_score": 74.2
+        },
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "D6141-44",
+          "source_file": "D6141-44__Code_de_la_sante_publique.pdf",
+          "score": "73.3%",
+          "hybrid_score": 71.8
+        }
+      ]
+    },
+    {
+      "id": "secu_maladie",
+      "type": "simple",
+      "question": "Quelles sont les conditions de prise en charge par l'assurance maladie ?",
+      "codes": [
+        "Code de la sécurité sociale"
+      ],
+      "status": "pass",
+      "best_score": 84.8,
+      "best_lexical_score": 100.0,
+      "source_count": 5,
+      "expected_hits": [
+        "assurance",
+        "maladie",
+        "prise"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la sécurité sociale",
+          "article_ref": "L871-1",
+          "source_file": "L871-1__Code_de_la_securite_sociale.pdf",
+          "score": "84.8%",
+          "hybrid_score": 88.1
+        },
+        {
+          "code": "Code de la sécurité sociale",
+          "article_ref": "D861-4",
+          "source_file": "D861-4__Code_de_la_securite_sociale.pdf",
+          "score": "80.9%",
+          "hybrid_score": 85.1
+        },
+        {
+          "code": "Code de la sécurité sociale",
+          "article_ref": "L315-1",
+          "source_file": "L315-1__Code_de_la_securite_sociale.pdf",
+          "score": "79.4%",
+          "hybrid_score": 83.9
+        }
+      ]
+    },
+    {
+      "id": "urbanisme_permis",
+      "type": "multi_codes",
+      "question": "Quels risques juridiques en cas de construction sans permis ?",
+      "codes": [
+        "Code de l'urbanisme",
+        "Code de la construction"
+      ],
+      "status": "pass",
+      "best_score": 82.3,
+      "best_lexical_score": 63.3,
+      "source_count": 10,
+      "expected_hits": [
+        "permis",
+        "construction",
+        "urbanisme"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'urbanisme",
+          "article_ref": "L451-1",
+          "source_file": "L451-1__Code_de_l_urbanisme.pdf",
+          "score": "82.3%",
+          "hybrid_score": 78.1
+        },
+        {
+          "code": "Code de l'urbanisme",
+          "article_ref": "L451-2",
+          "source_file": "L451-2__Code_de_l_urbanisme.pdf",
+          "score": "81.2%",
+          "hybrid_score": 73.6
+        },
+        {
+          "code": "Code de l'urbanisme",
+          "article_ref": "L451-3",
+          "source_file": "L451-3__Code_de_l_urbanisme.pdf",
+          "score": "81.1%",
+          "hybrid_score": 73.5
+        }
+      ]
+    },
+    {
+      "id": "urbanisme_declaration",
+      "type": "simple",
+      "question": "Quels travaux exigent une declaration prealable ?",
+      "codes": [
+        "Code de l'urbanisme"
+      ],
+      "status": "pass",
+      "best_score": 70.1,
+      "best_lexical_score": 81.2,
+      "source_count": 5,
+      "expected_hits": [
+        "travaux",
+        "declaration",
+        "prealable"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'urbanisme",
+          "article_ref": "R472-4",
+          "source_file": "R472-4__Code_de_l_urbanisme.pdf",
+          "score": "66.8%",
+          "hybrid_score": 70.0
+        },
+        {
+          "code": "Code de l'urbanisme",
+          "article_ref": "R423-76",
+          "source_file": "R423-76__Code_de_l_urbanisme.pdf",
+          "score": "70.1%",
+          "hybrid_score": 70.7
+        },
+        {
+          "code": "Code de l'urbanisme",
+          "article_ref": "L102-13",
+          "source_file": "L102-13__Code_de_l_urbanisme.pdf",
+          "score": "68.7%",
+          "hybrid_score": 68.7
+        }
+      ]
+    },
+    {
+      "id": "construction_decennale",
+      "type": "simple",
+      "question": "Quelle est la portee de la garantie decennale du constructeur ?",
+      "codes": [
+        "Code de la construction",
+        "Code civil"
+      ],
+      "status": "pass",
+      "best_score": 79.9,
+      "best_lexical_score": 81.2,
+      "source_count": 10,
+      "expected_hits": [
+        "garantie",
+        "constructeur"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la construction",
+          "article_ref": "L231-2",
+          "source_file": "L231-2__Code_de_la_construction.pdf",
+          "score": "79.9%",
+          "hybrid_score": 80.2
+        },
+        {
+          "code": "Code de la construction",
+          "article_ref": "L231-6",
+          "source_file": "L231-6__Code_de_la_construction.pdf",
+          "score": "77.5%",
+          "hybrid_score": 78.3
+        },
+        {
+          "code": "Code de la construction",
+          "article_ref": "L231-6",
+          "source_file": "L231-6__Code_de_la_construction.pdf",
+          "score": "76.8%",
+          "hybrid_score": 70.9
+        }
+      ]
+    },
+    {
+      "id": "environnement_dechets",
+      "type": "simple",
+      "question": "Quelles obligations s'appliquent a la gestion des dechets ?",
+      "codes": [
+        "Code de l'environnement"
+      ],
+      "status": "pass",
+      "best_score": 76.1,
+      "best_lexical_score": 68.8,
+      "source_count": 5,
+      "expected_hits": [
+        "dechets",
+        "gestion"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'environnement",
+          "article_ref": "R541-104",
+          "source_file": "R541-104__Code_de_l_environnement.pdf",
+          "score": "70.2%",
+          "hybrid_score": 69.9
+        },
+        {
+          "code": "Code de l'environnement",
+          "article_ref": "R321-10",
+          "source_file": "R321-10__Code_de_l_environnement.pdf",
+          "score": "74.4%",
+          "hybrid_score": 70.0
+        },
+        {
+          "code": "Code de l'environnement",
+          "article_ref": "R543-290-8",
+          "source_file": "R543-290-8__Code_de_l_environnement.pdf",
+          "score": "71.4%",
+          "hybrid_score": 67.6
+        }
+      ]
+    },
+    {
+      "id": "environnement_eau",
+      "type": "simple",
+      "question": "Quelles regles protegent les ressources en eau ?",
+      "codes": [
+        "Code de l'environnement"
+      ],
+      "status": "pass",
+      "best_score": 81.2,
+      "best_lexical_score": 41.7,
+      "source_count": 5,
+      "expected_hits": [
+        "eau",
+        "protection",
+        "milieu"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'environnement",
+          "article_ref": "L212-1",
+          "source_file": "L212-1__Code_de_l_environnement.pdf",
+          "score": "78.4%",
+          "hybrid_score": 70.3
+        },
+        {
+          "code": "Code de l'environnement",
+          "article_ref": "L210-1",
+          "source_file": "L210-1__Code_de_l_environnement.pdf",
+          "score": "81.2%",
+          "hybrid_score": 70.1
+        },
+        {
+          "code": "Code de l'environnement",
+          "article_ref": "R214-113",
+          "source_file": "R214-113__Code_de_l_environnement.pdf",
+          "score": "77.4%",
+          "hybrid_score": 68.3
+        }
+      ]
+    },
+    {
+      "id": "route_alcool",
+      "type": "simple",
+      "question": "Quelles sanctions sont prevues pour la conduite sous alcool ?",
+      "codes": [
+        "Code de la route"
+      ],
+      "status": "pass",
+      "best_score": 71.7,
+      "best_lexical_score": 65.0,
+      "source_count": 5,
+      "expected_hits": [
+        "alcool",
+        "conduite",
+        "permis"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la route",
+          "article_ref": "L243-1",
+          "source_file": "L243-1__Code_de_la_route.pdf",
+          "score": "69.6%",
+          "hybrid_score": 68.6
+        },
+        {
+          "code": "Code de la route",
+          "article_ref": "L233-1-1",
+          "source_file": "L233-1-1__Code_de_la_route.pdf",
+          "score": "69.8%",
+          "hybrid_score": 66.5
+        },
+        {
+          "code": "Code de la route",
+          "article_ref": "L224-16",
+          "source_file": "L224-16__Code_de_la_route.pdf",
+          "score": "71.4%",
+          "hybrid_score": 66.0
+        }
+      ]
+    },
+    {
+      "id": "route_vitesse",
+      "type": "simple",
+      "question": "Quelles sanctions en cas d'exces de vitesse ?",
+      "codes": [
+        "Code de la route"
+      ],
+      "status": "pass",
+      "best_score": 69.5,
+      "best_lexical_score": 41.7,
+      "source_count": 5,
+      "expected_hits": [
+        "vitesse",
+        "amende",
+        "permis"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la route",
+          "article_ref": "R413-17",
+          "source_file": "R413-17__Code_de_la_route.pdf",
+          "score": "66.0%",
+          "hybrid_score": 60.7
+        },
+        {
+          "code": "Code de la route",
+          "article_ref": "R326-14",
+          "source_file": "R326-14__Code_de_la_route.pdf",
+          "score": "67.4%",
+          "hybrid_score": 60.5
+        },
+        {
+          "code": "Code de la route",
+          "article_ref": "R412-11-3",
+          "source_file": "R412-11-3__Code_de_la_route.pdf",
+          "score": "69.5%",
+          "hybrid_score": 60.9
+        }
+      ]
+    },
+    {
+      "id": "assurance_indemnisation",
+      "type": "simple",
+      "question": "Dans quel delai l'assureur doit-il proposer une indemnisation ?",
+      "codes": [
+        "Code des assurances"
+      ],
+      "status": "pass",
+      "best_score": 78.3,
+      "best_lexical_score": 70.0,
+      "source_count": 5,
+      "expected_hits": [
+        "assureur",
+        "indemnisation",
+        "delai"
+      ],
+      "top_sources": [
+        {
+          "code": "Code des assurances",
+          "article_ref": "R125-6-1",
+          "source_file": "R125-6-1__Code_des_assurances.pdf",
+          "score": "76.8%",
+          "hybrid_score": 75.3
+        },
+        {
+          "code": "Code des assurances",
+          "article_ref": "L426-1",
+          "source_file": "L426-1__Code_des_assurances.pdf",
+          "score": "74.9%",
+          "hybrid_score": 67.2
+        },
+        {
+          "code": "Code des assurances",
+          "article_ref": "L121-4",
+          "source_file": "L121-4__Code_des_assurances.pdf",
+          "score": "75.9%",
+          "hybrid_score": 67.3
+        }
+      ]
+    },
+    {
+      "id": "pi_contrefacon",
+      "type": "simple",
+      "question": "Comment la contrefacon d'une oeuvre est-elle sanctionnee ?",
+      "codes": [
+        "Code de la propriété intellectuelle"
+      ],
+      "status": "pass",
+      "best_score": 74.1,
+      "best_lexical_score": 36.7,
+      "source_count": 5,
+      "expected_hits": [
+        "contrefacon",
+        "oeuvre",
+        "auteur"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la propriété intellectuelle",
+          "article_ref": "L331-29",
+          "source_file": "L331-29__Code_de_la_propriete_intellectuelle.pdf",
+          "score": "70.3%",
+          "hybrid_score": 62.9
+        },
+        {
+          "code": "Code de la propriété intellectuelle",
+          "article_ref": "L622-5",
+          "source_file": "L622-5__Code_de_la_propriete_intellectuelle.pdf",
+          "score": "69.2%",
+          "hybrid_score": 62.1
+        },
+        {
+          "code": "Code de la propriété intellectuelle",
+          "article_ref": "L611-7",
+          "source_file": "L611-7__Code_de_la_propriete_intellectuelle.pdf",
+          "score": "69.4%",
+          "hybrid_score": 58.9
+        }
+      ]
+    },
+    {
+      "id": "education_inscription",
+      "type": "simple",
+      "question": "Quelles sont les obligations relatives a l'instruction des enfants ?",
+      "codes": [
+        "Code de l'éducation"
+      ],
+      "status": "pass",
+      "best_score": 75.6,
+      "best_lexical_score": 54.2,
+      "source_count": 5,
+      "expected_hits": [
+        "instruction",
+        "enfant"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'éducation",
+          "article_ref": "L212-8",
+          "source_file": "L212-8__Code_de_l_education.pdf",
+          "score": "75.6%",
+          "hybrid_score": 70.9
+        },
+        {
+          "code": "Code de l'éducation",
+          "article_ref": "D531-4",
+          "source_file": "D531-4__Code_de_l_education.pdf",
+          "score": "72.2%",
+          "hybrid_score": 68.2
+        },
+        {
+          "code": "Code de l'éducation",
+          "article_ref": "D511-5",
+          "source_file": "D511-5__Code_de_l_education.pdf",
+          "score": "71.6%",
+          "hybrid_score": 67.8
+        }
+      ]
+    },
+    {
+      "id": "etrangers_oqtf",
+      "type": "difficile",
+      "question": "Quels recours sont possibles contre une OQTF ?",
+      "codes": [
+        "Code de l'entrée et du séjour des étrangers",
+        "Code de justice administrative"
+      ],
+      "status": "pass",
+      "best_score": 78.9,
+      "best_lexical_score": 71.2,
+      "source_count": 10,
+      "expected_hits": [
+        "recours",
+        "delai"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'entrée et du séjour des étrangers",
+          "article_ref": "L551-14",
+          "source_file": "L551-14__Code_de_l_entree_et_du_sejour_des_etrangers.pdf",
+          "score": "74.8%",
+          "hybrid_score": 74.0
+        },
+        {
+          "code": "Code de l'entrée et du séjour des étrangers",
+          "article_ref": "L752-7",
+          "source_file": "L752-7__Code_de_l_entree_et_du_sejour_des_etrangers.pdf",
+          "score": "78.9%",
+          "hybrid_score": 73.9
+        },
+        {
+          "code": "Code de l'entrée et du séjour des étrangers",
+          "article_ref": "L754-4",
+          "source_file": "L754-4__Code_de_l_entree_et_du_sejour_des_etrangers.pdf",
+          "score": "76.0%",
+          "hybrid_score": 72.2
+        }
+      ]
+    },
+    {
+      "id": "administratif_recours",
+      "type": "difficile",
+      "question": "Comment contester une decision administrative devant le tribunal ?",
+      "codes": [
+        "Code de justice administrative"
+      ],
+      "status": "pass",
+      "best_score": 82.3,
+      "best_lexical_score": 83.3,
+      "source_count": 5,
+      "expected_hits": [
+        "recours",
+        "tribunal",
+        "decision"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de justice administrative",
+          "article_ref": "R312-10",
+          "source_file": "R312-10__Code_de_justice_administrative.pdf",
+          "score": "82.3%",
+          "hybrid_score": 82.5
+        },
+        {
+          "code": "Code de justice administrative",
+          "article_ref": "R741-11",
+          "source_file": "R741-11__Code_de_justice_administrative.pdf",
+          "score": "79.3%",
+          "hybrid_score": 75.4
+        },
+        {
+          "code": "Code de justice administrative",
+          "article_ref": "R741-3",
+          "source_file": "R741-3__Code_de_justice_administrative.pdf",
+          "score": "75.4%",
+          "hybrid_score": 73.8
+        }
+      ]
+    },
+    {
+      "id": "fiscal_controle",
+      "type": "difficile",
+      "question": "Quels sont les droits du contribuable lors d'un controle fiscal ?",
+      "codes": [
+        "Livre des procédures fiscales"
+      ],
+      "status": "pass",
+      "best_score": 79.1,
+      "best_lexical_score": 87.5,
+      "source_count": 5,
+      "expected_hits": [
+        "controle",
+        "fiscal",
+        "contribuable"
+      ],
+      "top_sources": [
+        {
+          "code": "Livre des procédures fiscales",
+          "article_ref": "L80",
+          "source_file": "L80_D__Livre_des_procedures_fiscales.pdf",
+          "score": "78.6%",
+          "hybrid_score": 80.6
+        },
+        {
+          "code": "Livre des procédures fiscales",
+          "article_ref": "L80",
+          "source_file": "L80__Livre_des_procedures_fiscales.pdf",
+          "score": "77.5%",
+          "hybrid_score": 75.1
+        },
+        {
+          "code": "Livre des procédures fiscales",
+          "article_ref": "L76",
+          "source_file": "L76_C__Livre_des_procedures_fiscales.pdf",
+          "score": "77.8%",
+          "hybrid_score": 73.2
+        }
+      ]
+    },
+    {
+      "id": "impots_revenu",
+      "type": "simple",
+      "question": "Quelles categories de revenus sont soumises a l'impot sur le revenu ?",
+      "codes": [
+        "Code général des impôts"
+      ],
+      "status": "pass",
+      "best_score": 78.8,
+      "best_lexical_score": 85.0,
+      "source_count": 5,
+      "expected_hits": [
+        "revenu",
+        "impot"
+      ],
+      "top_sources": [
+        {
+          "code": "Code général des impôts",
+          "article_ref": "1649",
+          "source_file": "1649_quater-0_B_ter__Code_general_des_impots.pdf",
+          "score": "78.8%",
+          "hybrid_score": 80.2
+        },
+        {
+          "code": "Code général des impôts",
+          "article_ref": "979",
+          "source_file": "979__Code_general_des_impots.pdf",
+          "score": "77.0%",
+          "hybrid_score": 75.1
+        },
+        {
+          "code": "Code général des impôts",
+          "article_ref": "235",
+          "source_file": "235_quater__Code_general_des_impots.pdf",
+          "score": "76.1%",
+          "hybrid_score": 74.4
+        }
+      ]
+    },
+    {
+      "id": "commande_publique",
+      "type": "difficile",
+      "question": "Quels principes regissent la passation des marches publics ?",
+      "codes": [
+        "Code de la commande publique"
+      ],
+      "status": "pass",
+      "best_score": 67.2,
+      "best_lexical_score": 65.0,
+      "source_count": 5,
+      "expected_hits": [
+        "marche",
+        "public"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la commande publique",
+          "article_ref": "R2172-14",
+          "source_file": "R2172-14__Code_de_la_commande_publique.pdf",
+          "score": "66.3%",
+          "hybrid_score": 65.3
+        },
+        {
+          "code": "Code de la commande publique",
+          "article_ref": "L2322-1",
+          "source_file": "L2322-1__Code_de_la_commande_publique.pdf",
+          "score": "65.8%",
+          "hybrid_score": 64.9
+        },
+        {
+          "code": "Code de la commande publique",
+          "article_ref": "R2122-8",
+          "source_file": "R2122-8__Code_de_la_commande_publique.pdf",
+          "score": "63.8%",
+          "hybrid_score": 64.1
+        }
+      ]
+    },
+    {
+      "id": "fonction_publique",
+      "type": "simple",
+      "question": "Quels sont les droits et obligations des agents publics ?",
+      "codes": [
+        "Code de la fonction publique"
+      ],
+      "status": "pass",
+      "best_score": 75.1,
+      "best_lexical_score": 100.0,
+      "source_count": 5,
+      "expected_hits": [
+        "agent",
+        "public",
+        "obligation"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la fonction publique",
+          "article_ref": "R124-30",
+          "source_file": "R124-30__Code_de_la_fonction_publique.pdf",
+          "score": "75.0%",
+          "hybrid_score": 80.5
+        },
+        {
+          "code": "Code de la fonction publique",
+          "article_ref": "R124-33",
+          "source_file": "R124-33__Code_de_la_fonction_publique.pdf",
+          "score": "75.1%",
+          "hybrid_score": 80.6
+        },
+        {
+          "code": "Code de la fonction publique",
+          "article_ref": "R124-29",
+          "source_file": "R124-29__Code_de_la_fonction_publique.pdf",
+          "score": "75.0%",
+          "hybrid_score": 80.5
+        }
+      ]
+    },
+    {
+      "id": "electoral_vote",
+      "type": "simple",
+      "question": "Quelles conditions faut-il remplir pour etre inscrit sur une liste electorale ?",
+      "codes": [
+        "Code électoral"
+      ],
+      "status": "pass",
+      "best_score": 77.6,
+      "best_lexical_score": 69.4,
+      "source_count": 5,
+      "expected_hits": [
+        "electoral",
+        "liste",
+        "inscription"
+      ],
+      "top_sources": [
+        {
+          "code": "Code électoral",
+          "article_ref": "L16",
+          "source_file": "LO227-3__Code_electoral.pdf",
+          "score": "74.3%",
+          "hybrid_score": 70.5
+        },
+        {
+          "code": "Code électoral",
+          "article_ref": "R223",
+          "source_file": "R223__Code_electoral.pdf",
+          "score": "75.6%",
+          "hybrid_score": 74.2
+        },
+        {
+          "code": "Code électoral",
+          "article_ref": "L20",
+          "source_file": "LO227-3__Code_electoral.pdf",
+          "score": "75.8%",
+          "hybrid_score": 71.6
+        }
+      ]
+    },
+    {
+      "id": "social_handicap",
+      "type": "simple",
+      "question": "Quels droits sont ouverts aux personnes en situation de handicap ?",
+      "codes": [
+        "Code de l'action sociale et des familles"
+      ],
+      "status": "pass",
+      "best_score": 81.9,
+      "best_lexical_score": 70.0,
+      "source_count": 5,
+      "expected_hits": [
+        "handicap",
+        "personne"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de l'action sociale et des familles",
+          "article_ref": "R243-1",
+          "source_file": "R243-1__Code_de_l_action_sociale_et_des_familles.pdf",
+          "score": "81.9%",
+          "hybrid_score": 78.2
+        },
+        {
+          "code": "Code de l'action sociale et des familles",
+          "article_ref": "L146-3-1",
+          "source_file": "L146-3-1__Code_de_l_action_sociale_et_des_familles.pdf",
+          "score": "78.9%",
+          "hybrid_score": 76.6
+        },
+        {
+          "code": "Code de l'action sociale et des familles",
+          "article_ref": null,
+          "source_file": "Annexe_1-2__Code_de_l_action_sociale_et_des_familles.pdf",
+          "score": "77.0%",
+          "hybrid_score": 75.5
+        }
+      ]
+    },
+    {
+      "id": "piege_recette",
+      "type": "piege",
+      "question": "Quel article du Code civil donne la recette des crepes ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "review",
+      "best_score": 80.1,
+      "best_lexical_score": 75.0,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "101-1",
+          "source_file": "101-1__Code_civil.pdf",
+          "score": "80.1%",
+          "hybrid_score": 79.0
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "52",
+          "source_file": "52__Code_civil.pdf",
+          "score": "78.0%",
+          "hybrid_score": 77.3
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "99-1",
+          "source_file": "99-1__Code_civil.pdf",
+          "score": "77.5%",
+          "hybrid_score": 77.0
+        }
+      ]
+    },
+    {
+      "id": "piege_ordinateur",
+      "type": "piege",
+      "question": "Quel article du Code civil explique comment reparer un ordinateur portable ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "pass",
+      "best_score": 69.1,
+      "best_lexical_score": 35.8,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "99-2",
+          "source_file": "99-2__Code_civil.pdf",
+          "score": "66.5%",
+          "hybrid_score": 59.7
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "99-1",
+          "source_file": "99-1__Code_civil.pdf",
+          "score": "66.6%",
+          "hybrid_score": 58.5
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "1844-10",
+          "source_file": "1844-10__Code_civil.pdf",
+          "score": "66.4%",
+          "hybrid_score": 58.3
+        }
+      ]
+    },
+    {
+      "id": "piege_meteo",
+      "type": "piege",
+      "question": "Quel article du Code du travail prevoit la meteo de demain ?",
+      "codes": [
+        "Code du travail"
+      ],
+      "status": "review",
+      "best_score": 65.7,
+      "best_lexical_score": 62.5,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code du travail",
+          "article_ref": "R3122-15",
+          "source_file": "R3122-15__Code_du_travail.pdf",
+          "score": "65.7%",
+          "hybrid_score": 65.0
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "R3122-5",
+          "source_file": "R3122-5__Code_du_travail.pdf",
+          "score": "65.6%",
+          "hybrid_score": 64.9
+        },
+        {
+          "code": "Code du travail",
+          "article_ref": "L3132-7",
+          "source_file": "L3132-7__Code_du_travail.pdf",
+          "score": "65.5%",
+          "hybrid_score": 64.8
+        }
+      ]
+    },
+    {
+      "id": "piege_football",
+      "type": "piege",
+      "question": "Quel article du Code penal donne le score du prochain match de football ?",
+      "codes": [
+        "Code pénal"
+      ],
+      "status": "pass",
+      "best_score": 61.8,
+      "best_lexical_score": 54.2,
+      "source_count": 5,
+      "expected_hits": [
+        "aucun"
+      ],
+      "top_sources": [
+        {
+          "code": "Code pénal",
+          "article_ref": "131-36-7",
+          "source_file": "131-36-7__Code_penal.pdf",
+          "score": "59.4%",
+          "hybrid_score": 58.3
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "R131-35",
+          "source_file": "R131-35__Code_penal.pdf",
+          "score": "60.1%",
+          "hybrid_score": 57.2
+        },
+        {
+          "code": "Code pénal",
+          "article_ref": "R131-51-1",
+          "source_file": "R131-51-1__Code_penal.pdf",
+          "score": "61.8%",
+          "hybrid_score": 57.6
+        }
+      ]
+    },
+    {
+      "id": "piege_jardinage",
+      "type": "piege",
+      "question": "Quel article du Code de commerce explique comment planter des tomates ?",
+      "codes": [
+        "Code de commerce"
+      ],
+      "status": "review",
+      "best_score": 66.7,
+      "best_lexical_score": 59.7,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code de commerce",
+          "article_ref": "D443-2",
+          "source_file": "D443-2__Code_de_commerce.pdf",
+          "score": "66.1%",
+          "hybrid_score": 64.7
+        },
+        {
+          "code": "Code de commerce",
+          "article_ref": "L443-6",
+          "source_file": "L443-6__Code_de_commerce.pdf",
+          "score": "66.7%",
+          "hybrid_score": 65.2
+        },
+        {
+          "code": "Code de commerce",
+          "article_ref": "L443-5",
+          "source_file": "L443-5__Code_de_commerce.pdf",
+          "score": "66.5%",
+          "hybrid_score": 65.0
+        }
+      ]
+    },
+    {
+      "id": "piege_musique",
+      "type": "piege",
+      "question": "Quel article du Code de la route apprend a jouer de la guitare ?",
+      "codes": [
+        "Code de la route"
+      ],
+      "status": "review",
+      "best_score": 62.8,
+      "best_lexical_score": 62.5,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code de la route",
+          "article_ref": "R213-3",
+          "source_file": "R213-3__Code_de_la_route.pdf",
+          "score": "61.9%",
+          "hybrid_score": 62.0
+        },
+        {
+          "code": "Code de la route",
+          "article_ref": "R213-6",
+          "source_file": "R213-6__Code_de_la_route.pdf",
+          "score": "62.8%",
+          "hybrid_score": 62.1
+        },
+        {
+          "code": "Code de la route",
+          "article_ref": "R213-2",
+          "source_file": "R213-2__Code_de_la_route.pdf",
+          "score": "62.6%",
+          "hybrid_score": 62.0
+        }
+      ]
+    },
+    {
+      "id": "piege_cuisine",
+      "type": "piege",
+      "question": "Quel article du Code de la sante publique explique comment cuire un gateau ?",
+      "codes": [
+        "Code de la santé publique"
+      ],
+      "status": "pass",
+      "best_score": 73.5,
+      "best_lexical_score": 67.9,
+      "source_count": 5,
+      "expected_hits": [
+        "aucun"
+      ],
+      "top_sources": [
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "L1313-10",
+          "source_file": "L1313-10__Code_de_la_sante_publique.pdf",
+          "score": "73.5%",
+          "hybrid_score": 72.3
+        },
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "L1313-7",
+          "source_file": "L1313-7__Code_de_la_sante_publique.pdf",
+          "score": "73.4%",
+          "hybrid_score": 72.2
+        },
+        {
+          "code": "Code de la santé publique",
+          "article_ref": "L1313-5",
+          "source_file": "L1313-5__Code_de_la_sante_publique.pdf",
+          "score": "73.2%",
+          "hybrid_score": 72.0
+        }
+      ]
+    },
+    {
+      "id": "piege_voyage",
+      "type": "piege",
+      "question": "Quel article du Code civil recommande un hotel pour les vacances ?",
+      "codes": [
+        "Code civil"
+      ],
+      "status": "review",
+      "best_score": 60.1,
+      "best_lexical_score": 72.2,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code civil",
+          "article_ref": "1952",
+          "source_file": "1952__Code_civil.pdf",
+          "score": "59.4%",
+          "hybrid_score": 62.2
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "524",
+          "source_file": "524__Code_civil.pdf",
+          "score": "60.1%",
+          "hybrid_score": 59.4
+        },
+        {
+          "code": "Code civil",
+          "article_ref": "2509",
+          "source_file": "2509__Code_civil.pdf",
+          "score": "57.5%",
+          "hybrid_score": 58.0
+        }
+      ]
+    },
+    {
+      "id": "piege_loterie",
+      "type": "piege",
+      "question": "Quel article du Code general des impots donne les prochains numeros du loto ?",
+      "codes": [
+        "Code général des impôts"
+      ],
+      "status": "pass",
+      "best_score": 75.4,
+      "best_lexical_score": 71.9,
+      "source_count": 5,
+      "expected_hits": [
+        "aucun"
+      ],
+      "top_sources": [
+        {
+          "code": "Code général des impôts",
+          "article_ref": "680",
+          "source_file": "680__Code_general_des_impots.pdf",
+          "score": "75.4%",
+          "hybrid_score": 74.6
+        },
+        {
+          "code": "Code général des impôts",
+          "article_ref": "1048",
+          "source_file": "1048__Code_general_des_impots.pdf",
+          "score": "74.7%",
+          "hybrid_score": 74.1
+        },
+        {
+          "code": "Code général des impôts",
+          "article_ref": "847",
+          "source_file": "847__Code_general_des_impots.pdf",
+          "score": "74.6%",
+          "hybrid_score": 73.5
+        }
+      ]
+    },
+    {
+      "id": "piege_programmation",
+      "type": "piege",
+      "question": "Quel article du Code de l'education explique comment corriger un programme Python ?",
+      "codes": [
+        "Code de l'éducation"
+      ],
+      "status": "review",
+      "best_score": 67.6,
+      "best_lexical_score": 64.3,
+      "source_count": 5,
+      "expected_hits": [],
+      "top_sources": [
+        {
+          "code": "Code de l'éducation",
+          "article_ref": "D332-4",
+          "source_file": "D332-4__Code_de_l_education.pdf",
+          "score": "65.8%",
+          "hybrid_score": 65.5
+        },
+        {
+          "code": "Code de l'éducation",
+          "article_ref": "D334-7-1",
+          "source_file": "D334-7-1__Code_de_l_education.pdf",
+          "score": "66.0%",
+          "hybrid_score": 65.1
+        },
+        {
+          "code": "Code de l'éducation",
+          "article_ref": "D321-10",
+          "source_file": "D321-10__Code_de_l_education.pdf",
+          "score": "65.8%",
+          "hybrid_score": 64.4
+        }
+      ]
+    }
+  ]
+}

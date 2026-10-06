@@ -1,0 +1,321 @@
+{
+  "task": "routage question traitable par le corpus / hors perimetre",
+  "threshold_hybrid_pct": 60.0,
+  "sample_size": 50,
+  "confusion_matrix": {
+    "tn": 2,
+    "fp": 8,
+    "fn": 2,
+    "tp": 38
+  },
+  "metrics": {
+    "accuracy": 0.8,
+    "precision": 0.8261,
+    "recall": 0.95,
+    "specificity": 0.2,
+    "f1": 0.8837
+  },
+  "cases": [
+    {
+      "id": "civil_divorce",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 73.6
+    },
+    {
+      "id": "civil_mariage",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 79.7
+    },
+    {
+      "id": "civil_succession",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 61.2
+    },
+    {
+      "id": "civil_responsabilite",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 65.4
+    },
+    {
+      "id": "civil_bail",
+      "expected_answerable": 1,
+      "predicted_answerable": 0,
+      "best_hybrid_score": 56.9
+    },
+    {
+      "id": "travail_licenciement",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 78.6
+    },
+    {
+      "id": "travail_cdd",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 73.6
+    },
+    {
+      "id": "travail_conges",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 74.3
+    },
+    {
+      "id": "travail_duree",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 78.8
+    },
+    {
+      "id": "travail_accident",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 77.6
+    },
+    {
+      "id": "penal_vol",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 66.3
+    },
+    {
+      "id": "penal_escroquerie",
+      "expected_answerable": 1,
+      "predicted_answerable": 0,
+      "best_hybrid_score": 50.2
+    },
+    {
+      "id": "penal_violences",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 80.1
+    },
+    {
+      "id": "procedure_garde_vue",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 80.8
+    },
+    {
+      "id": "procedure_plainte",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 65.6
+    },
+    {
+      "id": "commerce_societe",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 64.8
+    },
+    {
+      "id": "commerce_redressement",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 74.4
+    },
+    {
+      "id": "consommation_retractation",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 70.4
+    },
+    {
+      "id": "consommation_garantie",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 76.5
+    },
+    {
+      "id": "sante_consentement",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 70.4
+    },
+    {
+      "id": "sante_secret",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 76.5
+    },
+    {
+      "id": "secu_maladie",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 88.1
+    },
+    {
+      "id": "urbanisme_permis",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 78.1
+    },
+    {
+      "id": "urbanisme_declaration",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 70.7
+    },
+    {
+      "id": "construction_decennale",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 80.2
+    },
+    {
+      "id": "environnement_dechets",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 70.0
+    },
+    {
+      "id": "environnement_eau",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 70.3
+    },
+    {
+      "id": "route_alcool",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 68.6
+    },
+    {
+      "id": "route_vitesse",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 60.9
+    },
+    {
+      "id": "assurance_indemnisation",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 75.3
+    },
+    {
+      "id": "pi_contrefacon",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 62.9
+    },
+    {
+      "id": "education_inscription",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 70.9
+    },
+    {
+      "id": "etrangers_oqtf",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 74.0
+    },
+    {
+      "id": "administratif_recours",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 82.5
+    },
+    {
+      "id": "fiscal_controle",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 80.6
+    },
+    {
+      "id": "impots_revenu",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 80.2
+    },
+    {
+      "id": "commande_publique",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 65.3
+    },
+    {
+      "id": "fonction_publique",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 80.6
+    },
+    {
+      "id": "electoral_vote",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 74.2
+    },
+    {
+      "id": "social_handicap",
+      "expected_answerable": 1,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 78.2
+    },
+    {
+      "id": "piege_recette",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 79.0
+    },
+    {
+      "id": "piege_ordinateur",
+      "expected_answerable": 0,
+      "predicted_answerable": 0,
+      "best_hybrid_score": 59.7
+    },
+    {
+      "id": "piege_meteo",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 65.0
+    },
+    {
+      "id": "piege_football",
+      "expected_answerable": 0,
+      "predicted_answerable": 0,
+      "best_hybrid_score": 58.3
+    },
+    {
+      "id": "piege_jardinage",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 65.2
+    },
+    {
+      "id": "piege_musique",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 62.1
+    },
+    {
+      "id": "piege_cuisine",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 72.3
+    },
+    {
+      "id": "piege_voyage",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 62.2
+    },
+    {
+      "id": "piege_loterie",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 74.6
+    },
+    {
+      "id": "piege_programmation",
+      "expected_answerable": 0,
+      "predicted_answerable": 1,
+      "best_hybrid_score": 65.5
+    }
+  ],
+  "limitation": "Evaluation exploratoire sur 50 questions; elle ne mesure pas la correction juridique des reponses."
+}
